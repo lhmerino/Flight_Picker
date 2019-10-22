@@ -2,6 +2,10 @@
 
 Find outbound and inbound flights on specific days and times
 
+## Requirements
+
+- Python3
+
 ## Setup
 
 1. `pip install requests terminaltables`
